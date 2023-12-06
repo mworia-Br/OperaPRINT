@@ -8,4 +8,4 @@ def end_task(process_name):
             print(f"Successfully ended {process_name} (PID: {pid})")
 
 # Example: end the task for Notepad
-end_task("notepad.exe")
+end_task("msedge.exe")
